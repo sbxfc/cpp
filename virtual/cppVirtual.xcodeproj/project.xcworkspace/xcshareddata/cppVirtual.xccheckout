@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>D9005F84-F656-4769-A0B1-FBC0ACC2882B</string>
+	<key>IDESourceControlProjectName</key>
+	<string>cppVirtual</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>D87AAC1DE01C48EEB9DE0CBFED7471B7C65C011C</key>
+		<string>https://github.com/sbxCPP/cppVirtual.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>cppVirtual/cppVirtual.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>D87AAC1DE01C48EEB9DE0CBFED7471B7C65C011C</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/sbxCPP/cppVirtual.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>D87AAC1DE01C48EEB9DE0CBFED7471B7C65C011C</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>D87AAC1DE01C48EEB9DE0CBFED7471B7C65C011C</string>
+			<key>IDESourceControlWCCName</key>
+			<string>cppVirtual</string>
+		</dict>
+	</array>
+</dict>
+</plist>
